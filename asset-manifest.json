@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.a50f76b4.js",
+    "main.js": "/static/js/main.99efdcff.js",
     "static/js/787.ad254a59.chunk.js": "/static/js/787.ad254a59.chunk.js",
     "static/media/MG_Logo.svg": "/static/media/MG_Logo.a5ee686d5aa51aa8f261f55000aad4f1.svg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.a50f76b4.js.map": "/static/js/main.a50f76b4.js.map",
+    "main.99efdcff.js.map": "/static/js/main.99efdcff.js.map",
     "787.ad254a59.chunk.js.map": "/static/js/787.ad254a59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a50f76b4.js"
+    "static/js/main.99efdcff.js"
   ]
 }
